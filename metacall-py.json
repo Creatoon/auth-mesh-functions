@@ -1,8 +1,0 @@
-{
-  "language_id": "py",
-  "path": ".",
-  "scripts": [
-    "__init__.py",
-    "auth.py"
-  ]
-}
